@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f11578b0322325840b852fd7c0664499
+timeCreated: 1499795853
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FetteEgyptienne
+  fontNames:
+  - FetteEgyptienne
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

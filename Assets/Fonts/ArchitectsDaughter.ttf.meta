@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c567b4b3444bff94d908cea9910d5c7c
+timeCreated: 1495578496
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Architects Daughter
+  fontNames:
+  - Architects Daughter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

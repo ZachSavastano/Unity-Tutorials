@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pause.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Store.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="90" Column="6" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="33" Column="2" />
+      <File FileName="Assets\Scripts\Clock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tumbleweed.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\Pause.cs" Line="16" Column="17" />
+      <File FileName="Assets\Scripts\FollowMouse.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\2d UFO Scripts\PlayerControllerMouseZach.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

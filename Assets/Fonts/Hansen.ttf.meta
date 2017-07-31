@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 01d97c055581bae4b940d5c864ab4f9d
+timeCreated: 1499796252
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hansen
+  fontNames:
+  - Hansen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
